@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tech Stack
+* JAVA | PHP | C# | Javascript | Ruby | ABAP | Python | GWT
+
+[![Omar Berroteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=berroteran&show_icons=true)](https://github.com/berroteran)
+
+<h2>Follow  Me</h2>
