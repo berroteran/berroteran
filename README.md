@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!, Thanks for visiting my github  👋
+
+Community Leader de  @jugNicaragua. Coffee, Guaranna and MATE Lover. 
 
 <!--
 **berroteran/berroteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
