@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 
 <h2>Follow  Me</h2>
 <p align="left">
-	
 	<a href="https://github.com/berroteran"><img src="https://img.shields.io/github/followers/berroteran.svg?label=GitHub&style=social" alt="GitHub" width="50px;"></a>
 	<a href="https://twitter.com/berroterankf"><img src="https://img.shields.io/twitter/follow/berroteranlkf?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/omarberroteransilva"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
 </p>
+
+.
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
@@ -41,7 +42,9 @@ Here are some ideas to get you started:
 
 
 <!-- update these accordingly -->
-
+.
+# ...
+.
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
