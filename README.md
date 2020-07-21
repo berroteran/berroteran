@@ -1,8 +1,9 @@
 # Hi there!, I am Omar, thanks for visiting my github  👋
 
-Community Leader de [JUG Nicaragua](https://github.com/jugnicaragua). Coffee, Moka, Té, Guaranna and MATE Lover. 
+Java Senior Developer FullStack. Community Leader de [JUG Nicaragua](https://github.com/jugnicaragua). Coffee, Moka, Té, Guaranna and MATE Lover. 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some community projects: @pico
+- 👯 I’m looking to collaborate on @jugNicaragua
 
 <!--
 **berroteran/berroteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
