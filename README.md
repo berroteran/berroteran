@@ -1,3 +1,4 @@
+![Header](https://github.com/berroteran/berroteran/blob/master/header01.png)
 # Hi there!, I am Omar, thanks for visiting my github  👋
 
 Java Senior Developer FullStack. Community Leader de [JUG Nicaragua](https://github.com/jugnicaragua). Coffee, Moka, Té, Guaranna and MATE Lover. 
