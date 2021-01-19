@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 * Senior JAVA Full Stack | PHP | C# | Javascript | Ruby | ABAP | Python | GWT | Sci-Fi 👽 | Old-Movies 🦚|
 
 [![Omar Berroteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=berroteran&show_icons=true)](https://github.com/berroteran)
+  ![github info 1](https://github-readme-stats.vercel.app/api?username=berroteran&show_icons=true&theme=nord&include_all_commits=true)
+
+  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=berroteran&langs_count=15&theme=nord&layout=compact)
 
 ##<h2>Follow  Me</h2>
 <p align="left">
@@ -34,7 +37,5 @@ Here are some ideas to get you started:
 </p>
 
 .
-
-http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
 ![Footer](https://github.com/berroteran/berroteran/blob/master/footer.png)
