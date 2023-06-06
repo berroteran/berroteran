@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Omar Berroteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=berroteran&show_icons=true)](https://github.com/berroteran)
   ![github info 1](https://github-readme-stats.vercel.app/api?username=berroteran&show_icons=true&theme=nord&include_all_commits=true)
 
-  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=berroteran&langs_count=15&theme=nord&layout=compact)
+  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=berroteran&langs_count=15&theme=nord&layout=compact&hide=javascript,html,css)
 
 ##<h2>Follow  Me</h2>
 <p align="left">
