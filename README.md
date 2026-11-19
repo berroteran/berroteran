@@ -25,18 +25,15 @@ Here are some ideas to get you started:
 # Tech Stack
 * Senior JAVA Full Stack | PHP | C# | Javascript | Ruby | ABAP | Python | GWT | Sci-Fi 👽 | Old-Movies 🦚|
 
-[![Omar Berroteran's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=berroteran&show_icons=true)](https://github.com/berroteran)
-  ![github info 1](https://github-readme-stats-sigma-five.vercel.app/api?username=berroteran&show_icons=true&theme=nord&include_all_commits=true)
+[![Omar Berroteran's GitHub stats](https://github-stats-extended.vercel.app/api?username=berroteran&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/berroteran)
 
-  ![github info 2](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=berroteran&langs_count=15&theme=nord&layout=compact&hide=javascript,html,css)
+![Omar Berroteran's top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=berroteran&langs_count=15&theme=nord&layout=compact&hide=javascript,html,css)
 
-##<h2>Follow  Me</h2>
+## Follow Me
 <p align="left">
-	<a href="https://github.com/berroteran"><img src="https://img.shields.io/github/followers/berroteran.svg?label=GitHub&style=social" alt="GitHub" heigth="80px;"></a>
-	<a href="https://twitter.com/berroterankf"><img src="https://img.shields.io/twitter/follow/berroteranlkf?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/berroteran"><img src="https://img.shields.io/github/followers/berroteran.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://x.com/berroteranlkf"><img src="https://img.shields.io/twitter/follow/berroteranlkf?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/omarberroteransilva"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-.
 
 ![Footer](https://github.com/berroteran/berroteran/blob/master/footer.png)
